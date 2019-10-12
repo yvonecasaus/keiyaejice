@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oixiemohs.robdyke.com/sitemap.xml
